@@ -93,18 +93,18 @@
 // let m = j + g
 // console.log(m);
 
+
+
 // 4 - misol
-// let num = 1624;
-// let a = num % 100; //24
-// let b = a%10
-// let c = (a-b)/10
-// console.log(c);
-
-
-// 5 - misol
 // let num = 1624;
 // let a = num %1000 // 624
 // let b = num % 100 // 24
 // let c  = (a - b)/100
 // console.log(c);
 
+// 5 - misol
+let num = 1624;
+let a = num % 100; //24
+let b = a % 10 
+let c = (a - b)/10
+console.log(c);
